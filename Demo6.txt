@@ -1,2 +1,2 @@
- Hii.tHis is file 6
-
+ Hii.This is file 6
+This is text file
